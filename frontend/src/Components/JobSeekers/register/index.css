@@ -1,0 +1,10 @@
+.MuiFormControl-root {
+    border: 0;
+    margin:20px auto!important;
+    display: flex !important;
+    flex-direction: column;
+    padding: 0;
+    position: relative;
+    min-width: 0;
+    vertical-align: top;
+}

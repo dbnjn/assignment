@@ -1,0 +1,61 @@
+.landing_page_container{
+   margin: 40px 20px;
+
+}
+
+
+.landing_page_mainDiv{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+}
+
+.company_register_front{
+    padding:20px;
+    margin: 30px;
+}
+
+h1{
+    letter-spacing: 1px;
+    color: rgb(122, 109, 109);
+}
+
+
+.users_regLogin_front{
+    padding:20px;
+    margin: 30px;
+}
+
+
+.comp_button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .user_button{
+    background-color: white;
+    color: #4CAF50;
+    border: 2px solid #4CAF50; 
+    padding: 15px 32px; 
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;  
+    outline: none;
+  }
+
+
+
+

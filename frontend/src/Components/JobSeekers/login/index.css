@@ -1,0 +1,74 @@
+
+.box {
+    width:50%;
+    height:200px;
+    background:#FFF;
+    margin:40px auto;
+}
+  
+  body {
+    background: #EEF2F7;
+  }
+
+  .effect8
+  {
+      position:relative;
+      box-shadow:0px 0px 10px #cccccc;
+      
+    
+  } 
+  
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.logincontainer{
+display: flex;
+flex-direction: column;
+background-color: #989898;
+}
+
+.logoimg{
+ 
+margin: auto;
+
+/* background-color: gray; */
+width: 30vw;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.loginImg{
+  width: 100%;
+ 
+  /* justify-content: space-evenly; */
+  align-items: center;
+}
+
+
+
+.input{
+    min-height: 60px;
+    min-width: 25vw;
+}
+
+.button{
+    min-width: 25vw;
+}
+
+.forgetlink{
+font-size: 0.8rem;
+/* text-align: center; */
+/* padding-left: 25px; */
+}
+
+
+
+
